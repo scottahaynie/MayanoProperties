@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-lavender: #BCA9D9;
+}
+
+body {
+  @apply bg-black text-gray-200;
+  font-family: 'Montserrat', 'Futura', 'Gotham', 'Segoe UI', 'Arial', sans-serif;
+}

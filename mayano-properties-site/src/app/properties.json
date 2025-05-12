@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Florida Coastal Retreat",
+    "image": "/images/boynton-1.avif",
+    "location": "Boynton Beach, FL",
+    "description": "Newly remodeled 3-bdr, 2-bath house near the beach and Delray Beach's Atlantic Ave",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Convenient Kirkland Condo",
+    "image": "/images/kirkland-condo-1.jpg",
+    "location": "Kirkland, Washington",
+    "description": "Nice 2-bdr apartment in the Totem Lake neighborhood of Kirkland",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Heart of Santa Monica Condo",
+    "image": "/images/santamonica-1.jpg",
+    "location": "Santa Monica, California",
+    "description": "Enjoy the best of Southern California in this 4-bdr, 2-bath condo",
+    "featured": true
+  }
+] 
